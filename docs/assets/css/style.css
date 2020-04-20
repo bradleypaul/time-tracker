@@ -84,3 +84,7 @@ input[type="text"] {
   display: block;
   border-style: none;
 }
+
+.fa-custom {
+  display: block;
+}
